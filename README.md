@@ -1,12 +1,12 @@
 # RFID Clocking Device – Arduino Mega 2560 + ESP32
-
+<img width="1211" height="596" alt="Screenshot from 2025-07-31 17-03-38" src="https://github.com/user-attachments/assets/22dd1a76-b595-4ad0-ad13-59de0e4c2e6a" />
 This project implements a secure and user-friendly RFID-based employee/staff clocking system using the **Arduino Mega 2560**, **ESP32**, and **Arduino Pro Mini**. It logs clock-in and clock-out events via RFID tags, stores data in EEPROM, and provides real-time interaction using a TFT LCD screen.
 
 ## ## Features
 
 * RFID access control using MFRC522 module  
 * Real-time clocking interface on TFT LCD screen  
-* EEPROM-based ID storage for offline verification  <img width="1211" height="596" alt="Screenshot from 2025-07-31 17-03-38" src="https://github.com/user-attachments/assets/22dd1a76-b595-4ad0-ad13-59de0e4c2e6a" />
+* EEPROM-based ID storage for offline verification  
 
 * Admin management interface for enrolling and deleting IDs  
 * Serial communication between:
